@@ -1,6 +1,6 @@
 let h1 = document.querySelector("h1");
 let ism = prompt("Ismingizni kiriting: ");
-let rang = prompt("Yoqtirgan rangizni")
+let rang = prompt("Yoqtirgan rangizni");
 let bg = prompt("Orga fon rangi: ");
 
 h1.textContent = `hello, ${ism}!`;
